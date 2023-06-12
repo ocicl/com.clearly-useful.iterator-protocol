@@ -1,0 +1,10 @@
+* com.clearly-useful.iterator-protocol
+
+simple iteration protocol for common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jaeschliman/com.clearly-useful.iterator-protocol.git   |
+| commit  | f6c0ff4  |
+| systems | com.clearly-useful.iterator-protocol |
+|---------+-------------------------------------------|
+
